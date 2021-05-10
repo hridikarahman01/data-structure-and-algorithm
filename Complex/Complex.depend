@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1617507202 source:e:\4th sem nsu\cse225lab\complex\main.cpp
+	<iostream>
+	"Complex.h"
+	"Complex.cpp"
+
+1617507205 e:\4th sem nsu\cse225lab\complex\complex.h
+
+1617507024 e:\4th sem nsu\cse225lab\complex\complex.cpp
+	"complex.h"
+	<iostream>
+

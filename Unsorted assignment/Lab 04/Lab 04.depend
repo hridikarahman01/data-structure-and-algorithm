@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1616526745 source:c:\users\lenovo\documents\teaching\cse 225l data structures and algorithms\resources\lab codes\lab 04\unsortedtype.cpp
+	"unsortedtype.h"
+
+1616522119 c:\users\lenovo\documents\teaching\cse 225l data structures and algorithms\resources\lab codes\lab 04\unsortedtype.h
+
+1616529101 source:c:\users\lenovo\documents\teaching\cse 225l data structures and algorithms\resources\lab codes\lab 04\main.cpp
+	<iostream>
+	"unsortedtype.cpp"
+	"studentInfo.h"
+
+1616526745 c:\users\lenovo\documents\teaching\cse 225l data structures and algorithms\resources\lab codes\lab 04\unsortedtype.cpp
+	"unsortedtype.h"
+
+1616528374 source:c:\users\lenovo\documents\teaching\cse 225l data structures and algorithms\resources\lab codes\lab 04\studentinfo.cpp
+	"studentInfo.h"
+
+1616528273 c:\users\lenovo\documents\teaching\cse 225l data structures and algorithms\resources\lab codes\lab 04\studentinfo.h
+	<iostream>
+
+1616607654 source:c:\users\hridika\downloads\lab-04\lab 04\main.cpp
+	<iostream>
+	"unsortedtype.cpp"
+	"studentInfo.h"
+
+1616526746 c:\users\hridika\downloads\lab-04\lab 04\unsortedtype.cpp
+	"unsortedtype.h"
+
+1616522120 c:\users\hridika\downloads\lab-04\lab 04\unsortedtype.h
+
+1616528274 c:\users\hridika\downloads\lab-04\lab 04\studentinfo.h
+	<iostream>
+
+1616607297 source:c:\users\hridika\downloads\lab-04\lab 04\studentinfo.cpp
+	"studentInfo.h"
+
+1616526746 source:c:\users\hridika\downloads\lab-04\lab 04\unsortedtype.cpp
+	"unsortedtype.h"
+

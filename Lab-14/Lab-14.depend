@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1620138837 source:e:\4th sem nsu\cse225lab\lab-14\heaptype.cpp
+	"heaptype.h"
+
+1620138714 e:\4th sem nsu\cse225lab\lab-14\heaptype.h
+
+1620139164 source:e:\4th sem nsu\cse225lab\lab-14\pqtype.cpp
+	"pqtype.h"
+
+1620138932 e:\4th sem nsu\cse225lab\lab-14\pqtype.h
+	"heaptype.h"
+	"heaptype.cpp"
+
+1620138837 e:\4th sem nsu\cse225lab\lab-14\heaptype.cpp
+	"heaptype.h"
+
+1620141859 source:e:\4th sem nsu\cse225lab\lab-14\main.cpp
+	<iostream>
+	"pqtype.cpp"
+
+1620139164 e:\4th sem nsu\cse225lab\lab-14\pqtype.cpp
+	"pqtype.h"
+

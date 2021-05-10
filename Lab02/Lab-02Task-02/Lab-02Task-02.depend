@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1615674784 source:e:\4th sem nsu\cse225lab\lab-02task-02\lab-02task-02.cpp
+	"Lab-02Task-02.h"
+	<iostream>
+
+1615674771 e:\4th sem nsu\cse225lab\lab-02task-02\lab-02task-02.h
+
+1615674764 source:e:\4th sem nsu\cse225lab\lab-02task-02\main.cpp
+	"Lab-02Task-02.h"
+	<iostream>
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1618126725 source:e:\4th sem nsu\cse225lab\lab08_stack_using_linked_list\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
+1618126663 e:\4th sem nsu\cse225lab\lab08_stack_using_linked_list\stacktype.h
+
+1618125953 source:e:\4th sem nsu\cse225lab\lab08_stack_using_linked_list\main.cpp
+	<iostream>
+	"stacktype.h"
+	"stacktype.cpp"
+
+1618117323 e:\4th sem nsu\cse225lab\lab08_stack_using_linked_list\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+

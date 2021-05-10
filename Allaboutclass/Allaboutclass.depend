@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1615084937 source:e:\4th sem nsu\cse225lab\allaboutclass\demof.cpp
+	"demo.h"
+	<iostream>
+
+1615244147 e:\4th sem nsu\cse225lab\allaboutclass\demo.h
+
+1615247198 source:e:\4th sem nsu\cse225lab\allaboutclass\main.cpp
+	<iostream>
+	"demo.h"
+	"demoF.cpp"
+
+1615247064 e:\4th sem nsu\cse225lab\allaboutclass\demof.cpp
+	"demo.h"
+	<iostream>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1618282165 source:e:\4th sem nsu\cse225lab\quetype\main.cpp
+	<iostream>
+	"quetype.h"
+	"quetype.cpp"
+
+1618281206 e:\4th sem nsu\cse225lab\quetype\quetype.h
+
+1618281216 e:\4th sem nsu\cse225lab\quetype\quetype.cpp
+	"quetype.h"
+
+1618281216 source:e:\4th sem nsu\cse225lab\quetype\quetype.cpp
+	"quetype.h"
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1618842224 source:e:\4th sem nsu\cse225lab\queue_linked_list\main.cpp
+	<iostream>
+	"quetype.h"
+	"quetype.cpp"
+
+1618840987 source:e:\4th sem nsu\cse225lab\queue_linked_list\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1618840884 e:\4th sem nsu\cse225lab\queue_linked_list\quetype.h
+
+1618840987 e:\4th sem nsu\cse225lab\queue_linked_list\quetype.cpp
+	"quetype.h"
+	<iostream>
+
